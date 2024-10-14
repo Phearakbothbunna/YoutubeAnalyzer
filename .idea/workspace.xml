@@ -40,18 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;both-data-prep&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/phear/Desktop/Fall2024&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "both-data-prep",
+    "last_opened_file_path": "C:/Users/phear/Desktop/Fall2024/Github/CPTS415",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +71,7 @@
       <updated>1728845448827</updated>
       <workItem from="1728845450917" duration="2271000" />
       <workItem from="1728847750778" duration="2032000" />
-      <workItem from="1728849812902" duration="11399000" />
+      <workItem from="1728849812902" duration="13062000" />
     </task>
     <task id="LOCAL-00001" summary="Data preparation testing">
       <option name="closed" value="true" />
