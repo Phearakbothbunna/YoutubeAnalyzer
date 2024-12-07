@@ -6,4 +6,5 @@ Team members: Phearak Both Bunna, Jack Balster, Ryan Biggs, Nico Williams
 + The dataset that we used for the project was saved in "data" folder but the instruction says not to submit any dataset
   - We downloaded the data from https://netsg.cs.sfu.ca/youtubedata/
   - Only 3 crawls were used and here's the name of each crawl dataset folder: 080327, 080329, 080331
+  - In order to run the program for analysis, we need to have the datasets mentioned above.
 
